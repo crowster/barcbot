@@ -27,10 +27,10 @@ using Face_RecognitionLibrary;
 using System.IO;
 using OTempus.Library.Class;
 using System.Net.Http.Headers;
-using Autofac;
 using Microsoft.Bot.Builder.Internals.Fibers;
 using Microsoft.Bot.Builder.Dialogs.Internals;
 using System.Threading;
+using Autofac;
 
 namespace BarclayBankBot
 {
